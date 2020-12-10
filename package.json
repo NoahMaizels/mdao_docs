@@ -4,6 +4,6 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "build": "cd website && yarn build"
+    "build": "cd website && npm run build"
   }
 }
