@@ -1,0 +1,9 @@
+{
+  "name": "mdao_docs_parent",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "cd website && yarn build"
+  }
+}
