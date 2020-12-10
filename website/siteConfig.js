@@ -40,8 +40,8 @@ const siteConfig = {
   headerLinks: [
     {doc: 'doc1', label: 'Docs'},
     {doc: 'doc4', label: 'API'},
-    {page: 'help', label: 'Help'},
-    {blog: true, label: 'Blog'},
+    // {page: 'contribute', label: 'Contribute'},
+    {blog: true, label: 'News'},
     { search: true },
     { languages: true }
   ],
@@ -51,7 +51,7 @@ const siteConfig = {
 
   /* path to images for header/footer */
   headerIcon: 'img/om_logo.svg',
-  footerIcon: 'img/favicon.ico',
+  footerIcon: 'img/om_logo.svg',
   favicon: 'img/favicon.ico',
 
   /* Colors for website */
@@ -75,7 +75,7 @@ const siteConfig = {
   
 
   // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
-  copyright: `Copyright © ${new Date().getFullYear()} Your Name or Your Company Name`,
+  copyright: `Copyright © ${new Date().getFullYear()} MANTRA DAO`,
 
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks.
@@ -109,6 +109,8 @@ const siteConfig = {
   facebookAppId: "234070731276849",
 
   facebookComments: true,
+
+  facebookPixelId: "145169003702533",
 
   // You may provide arbitrary config keys to be used as needed by your
   // template. For example, if you need your repo's URL...

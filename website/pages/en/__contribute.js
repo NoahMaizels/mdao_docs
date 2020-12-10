@@ -12,7 +12,7 @@ const CompLibrary = require('../../core/CompLibrary.js');
 const Container = CompLibrary.Container;
 const GridBlock = CompLibrary.GridBlock;
 
-function Help(props) {
+function Contribute(props) {
   const {config: siteConfig, language = ''} = props;
   const {baseUrl, docsUrl} = siteConfig;
   const docsPart = `${docsUrl ? `${docsUrl}/` : ''}`;
@@ -41,14 +41,15 @@ function Help(props) {
       <Container className="mainContainer documentContainer postContainer">
         <div className="post">
           <header className="postHeader">
-            <h1>Need help?</h1>
+            <h1>Would you like to contribute to the MANTRA DAO docs?</h1>
           </header>
-          <p>This project is maintained by a dedicated group of people.</p>
-          <GridBlock contents={supportLinks} layout="threeColumn" />
+          <p>While the MANTRA DAO docs are maintained and edited by the core team,
+             they are open to contributions from anyone in the MANTRA DAO community.</p>
+          {/* <GridBlock contents={supportLinks} layout="threeColumn" /> */}
         </div>
       </Container>
     </div>
   );
 }
 
-module.exports = Help;
+module.exports = Contribute;
