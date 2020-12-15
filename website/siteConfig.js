@@ -62,6 +62,8 @@ const siteConfig = {
 
   /* Custom fonts for website */
   
+  stylesheets: [],
+  
   fonts: {
     myFont: [
       "Times New Roman",
