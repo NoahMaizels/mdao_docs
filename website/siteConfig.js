@@ -62,18 +62,18 @@ const siteConfig = {
 
   /* Custom fonts for website */
   
-  stylesheets: [],
+  stylesheets: ["static/css/custom.css"],
   
-  fonts: {
-    myFont: [
-      "Times New Roman",
-      "Serif"
-    ],
-    myOtherFont: [
-      "-apple-system",
-      "system-ui"
-    ]
-  },
+  // fonts: {
+  //   myFont: [
+  //     "Proxima Nova Rg",
+  //     "Arial"
+  //   ],
+  //   myOtherFont: [
+  //     "-apple-system",
+  //     "system-ui"
+  //   ]
+  // },
   
 
   // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
