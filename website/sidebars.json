@@ -1,10 +1,9 @@
 {
-  "docs": {
-    "Docusaurus": ["doc1"],
-    "First Category": ["doc2"],
-    "Second Category": ["doc3"]
+  "Users": {
+    "About MANTRA DAO": ["users-intro", "om-token", "links-downloads", "faq"],
+    "Product Guides": ["products", "staking", "mantra-pool", "lending"]
   },
-  "docs-other": {
-    "First Category": ["doc4", "doc5"]
+  "Developers": {
+    "System Overview": ["developers-intro"]
   }
 }

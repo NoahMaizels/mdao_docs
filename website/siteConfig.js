@@ -22,7 +22,7 @@
 
 const siteConfig = {
   title: 'MANTRA DAO Docs', // Title for your website.
-  tagline: 'The HQ for MANTRA DAO information',
+  tagline: 'The community governed DeFi hypermarket',
   url: 'https://maker-dao-docs.netlify.app', // Your website URL
   baseUrl: '/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
@@ -38,8 +38,8 @@ const siteConfig = {
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    {doc: 'doc1', label: 'Docs'},
-    {doc: 'doc4', label: 'API'},
+    {doc: 'users-intro', label: 'Users'},
+    {doc: 'developers-intro', label: 'Developers'},
     // {page: 'contribute', label: 'Contribute'},
     {blog: true, label: 'News'},
     { search: true },
