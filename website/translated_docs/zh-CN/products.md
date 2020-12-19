@@ -1,6 +1,6 @@
 ---
-id: products
-title: Products
+id: 产品
+title: 产品
 ---
 
-This is a link to
+这是一个链接
