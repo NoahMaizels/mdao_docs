@@ -1,7 +1,7 @@
 ---
-id: lending
-title: Lending
+id: 贷款
+title: 放款中
 ---
 
-This is a link to [another document.](doc3.md)  
-This is a link to an [external page.](http://www.example.com)
+这是链接到 [另一个文档。](doc3.md)  
+这是链接到一个 [外部页面。](http://www.example.com)
