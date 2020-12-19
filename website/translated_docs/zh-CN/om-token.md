@@ -1,113 +1,113 @@
 ---
-id: om-token
-title: Om Token
+id: om-令牌
+title: Om 令牌
 ---
 
-The OM token is the MANTRA DAO platform token and serves a wide variety of uses with the MANTRA DAO ecosystem including collateral, staking, payment, and more.
+OM 令牌是 MANTRA DAO 平台令牌，它用于包括担保品在内的 MANTRA DAO 生态系统的多种用途。 标记、付款和更多。
 
-## OM Token Usage
+## OM 令牌使用
 
-### Staking
-
-...
-
-### Collateral
+### 加载中
 
 ...
 
-### Platform Fees
+### 次级方案
 
-## OM Token Distribution Details
+...
 
-![OM Token — Circulating Supply Emission Schedule (Update — September 4th, 2020)](https://cdn-images-1.medium.com/max/3176/1*fIdM-e6QTkgGrSPz9UWCxQ.jpeg)*OM Token — Circulating Supply Emission Schedule (Update — September 4th, 2020)*
+### 平台费用
 
-### Public Distribution
-*(Includes pre-IMO, and IMO rounds 1, 2 and 3):*
+## OM 令牌发布详细信息
 
-8.5% of total supply, or 75,555,555 OM
+![OM令牌——供应品排放时间表的流通（更新——2020年9月4日）](https://cdn-images-1.medium.com/max/3176/1*fIdM-e6QTkgGrSPz9UWCxQ.jpeg)*OM Token — 流通供应排放时间表(更新 — 9月4日，2020年)*
 
-* No lock-up:
+### 公共分布
+*（包括海事组织之前的一轮、二轮和三轮海事组织）：*
 
-* All 75,555,555 OM were distributed and have been circulating since TGE
+供应总量的8.5%，即75 555 555 OMM
 
-* All 75,555,555 OM are eligible to be staked and earn staking rewards since day 1 of TGE
+* 无锁：
 
-### Private Distribution
+* 所有75 555 555 OM都已分发，自技术专家组以来一直在流通。
 
-9% of total supply, or 80,000,000 OM
+* 所有75 555 555 OM都有资格从TGE 第1天起获得刺客奖励。
 
-* Locked-up with roughly 6 month evenly distributed vesting events:
+### 私人分布
 
-* 13,333,333 OM were distributed and have been circulating since TGE
+供应总量的9%，即80 000 000 OM
 
-* 13,333,333 OM will be unlocked on each of the 31st, 61st, 91st, 121st and 151st days since TGE
+* 锁定大约6个月平均分配的授予事件：
 
-* All 80,000,000 OM are eligible to be staked and earn staking rewards since day 1 of TGE
+* 自技术专家组以来，共分发了13,333,333份OM, 并一直在流通。
 
-### Team & Advisors
+* 13,333,333台OM 将在 TGE以来的31天、 61天、 91天、 121天和151天内解锁。
 
-17.5% of total supply, or 155,555,555 OM
+* 所有80 000 000 OM 都有资格获得Stocking 奖励，自TGE第1天起获得Staking 奖励
 
-* Locked-up with vesting as follows:
+### 团队 & 咨询师
 
-* Zero OM will be circulating at TGE, and for the first 180 days since TGE
+供应总量的17.5%,即155 555 OMM
 
-* 1/18th, or ~8,641,975 OM, will vest and come into circulation every thirty days, from the 181st day through the 691st day since TGE
+* 锁定以下物品：
 
-* All 155,555,555 OM are eligible to be staked and earn staking rewards since day 1 of TGE
+* 零OM 将在政府专家小组上散发，自政府专家小组以来的头180天内分发。
 
-### Staking Rewards
+* 1/18th, 或 ~8,641,975 OM, 将从181天起每隔30天投放和流通，直到TGE结束以来的691天
 
-30% of total supply, or 266,666,666 OM
+* 所有155,555,555OM都有资格自技术专家小组第一天起获得隐藏奖励。
 
-* 10,000,000 OM were released within the first 2 days since TGE for funding of exchange staking rewards programs
+### 预订奖励
 
-* 30,000,000 OM will be released evenly split on a daily basis from day 16 to day 90 since TGE (equivalent to 400k OM daily release), and will be used for funding of both off-chain and on-chain staking rewards programs
+占总供应量的30%，或266,666,666OM
 
-* The remaining balance of 226,666,666 OM will be released following a non-linear decaying growth function starting on day 91 since TGE, such that a greater proportion of staking rewards will be unlocked on the early days and all staking reward tokens have been fully released by day 1,826 since TGE (roughly 5 years since TGE)
+* 在技术就业小组之后的头两天内发布了10 000 000 OM，用于支付汇兑风险奖励方案。
 
-* Locked staking reward tokens are not eligible to earn staking rewards
+* 自TGE (相当于400kOM 每日发布)以来，每天平均发放30 000 000OM 。 并将用于资助链外和链上舞蹈奖励方案
 
-* Unlocked and distributed staking rewards will be eligible to be staked and earn staking rewards from the day they become unlocked and distributed to token holders
+* 余下的226,666,666OM 将在自过渡时期教育以来的第91天开始非线性衰减功能下发放。 这样就可以在早期解锁更大比例的藏匿奖励，到第1天所有的收藏品代币都已全部释放， TGE过后26年(自TGE过后大约5年)
 
-### Referrals
+* 锁定舞蹈奖励代币没有资格获得舞蹈奖励
 
-12.5% of total supply, or 111,111,111 OM
+* 解锁和分配的挂载奖励将有资格被收藏，并从被解锁并分发给代币持有者的那一天获得挂载奖励
 
-* 10,000,000 OM were released within the first 2 days since TGE for funding of initial token distribution referral programs
+### 引用
 
-* 22,000,000 OM will be released evenly split on a daily basis from day 16 to day 180 since TGE (equivalent to ~133k OM daily release), and will be used for funding of various referral and promotional incentive programs
+供应总量的12.5%，即111 111 111 111澳门币。
 
-* The remaining balance of ~79,111,111 OM will be released on a rolling basis at a linear release rate starting on day 181 since TGE, such that all referral tokens have been fully released by day 1,826 since TGE (roughly 5 years since TGE)
+* 10 000 000 OM 已在 TGE之后的头2天内释放，以资助初始令牌发行转介程序
 
-* Locked referral tokens are not eligible to earn staking rewards
+* 自TGE (相当于~133kOM 每日发布)以来，每天平均发放22,000,000OM 。 并将用于资助各种推荐和宣传鼓励方案
 
-* Unlocked and distributed referral tokens will be eligible to be staked and earn staking rewards from the day they become unlocked and distributed to token holders
+* 剩余的 ~79,111,111 OM 将在滚动基础上以线性释放率发放，自TGE以来的第181天开始。 这样，自TGE以来(自TGE以来大约5年)，所有转诊令牌都已全部释放到1,826天之前(自TGE以来大约5年)。
 
-### Reserves
+* 锁定的推荐令牌没有资格赚取收藏奖励
 
-10% of total supply, or 88,888,888 OM
+* 解锁和分布式转介令牌将有资格被隐藏，并从被解锁并分发给代币持有者的那一天获得分期付款奖励
 
-* 11,111,111 OM were released within the first 2 days since TGE for liquidity provisions and strategic initiatives by the MANTRA DAO Foundation
+### 储备金
 
-* 22,000,000 OM will be released evenly split on a daily basis from day 16 to day 180 since TGE (equivalent to ~133k OM daily release), and will be used for funding strategic initiatives by the MANTRA DAO Foundation
+总供应量的10%，即88 888 888 OM
 
-* The remaining balance of ~55,777,778 OM will be released on a rolling basis at a linear release rate starting on day 181 since TGE, such that all reserve tokens have been fully released by day 1,826 since TGE (roughly 5 years since TGE)
+* 关于流动资金的规定和MANTRA DAO基金会的战略倡议，在技术需要评估之后的头两天内释放了11,111,111 OM
 
-* Locked reserve tokens are not eligible to earn staking rewards
+* 自TGE (相当于~133kOM 每日发布)以来，每天平均发放22,000,000OM 。 并将用于资助MANTRA DAO基金会的战略倡议
 
-* Unlocked and distributed reserve tokens will be eligible to be staked and earn staking rewards from the day they become unlocked and distributed to token holders
+* 余下的余额~55,777,778OM 将以滚动方式发放，自TGE以来的第181天起以线性释放率开始发放。 自TGE以来(自TGE以来约5年)，所有后备代币已经全部释放到1,826天。
 
-### Grants
+* 锁定的后备代币没有资格获得staking 奖励
 
-12.5% of total supply, or 111,111,111 OM
+* 解锁和分配的备用代币将有资格被收藏，并从被解锁并分发给代币持有者的那一天获得分期付款奖励
 
-* Grant tokens are meant to be used to fund MANTRA DAO protocol improvement and development initiatives, and will only unlock upon community on-chain governance proposals passing minimum thresholds of approval
+### 补助金
 
-* Should grants not be needed for the MANTRA DAO ecosystem’s growth, the grant tokens will never be unlocked and will essentially never enter circulation
+供应总量的12.5%，即111 111 111 111澳门币。
 
-* Locked grant tokens will not be eligible to earn staking rewards
+* 赠款代币用于资助MANTRA DAO协议的改进和发展倡议。 并且只会解锁超越最低批准阈值的社区在链治理建议
 
-* Unlocked and distributed grant tokens will be eligible to be staked and earn staking rewards from the day they become unlocked and distributed
+* 如果MANTRA DAO 生态系统增长不需要捐赠，赠予令牌将永远不会被解锁，并且根本不会进入循环
 
-In addition to the above distribution guidelines, the team is modeling out different inflation model scenarios to be included once the OM governance goes live in RioChain, as well as token burning mechanisms through MANTRA POOL and protocol level fees.  
+* 已锁定的赠予令牌将没有资格获得收藏奖励
+
+* 解锁和分配的赠予令牌将有资格被收藏，并从被解锁和分配的那一天获得分期奖励。
+
+3. 除上述分配准则外，还包括以下内容： 小组正在模拟各种不同的通货膨胀模型假设情景，一旦人力厅的治理在里奥链开始运作，即应包括这些假设情景。 此外还通过便携式POL和协议一级的收费进行象征性焚烧机制。  
