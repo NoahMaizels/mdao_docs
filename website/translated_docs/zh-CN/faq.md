@@ -1,131 +1,131 @@
 ---
-id: faq
-title: FAQ
+id: 常见问题
+title: 常见问题
 ---
 
-## What is MANTRA DAO?
+## 什么是管理员DAO？
 
-MANTRA DAO leverages the wisdom of the crowd to create a community-governed, transparent, and decentralized ecosystem for web 3.0. Built on Parity Substrate based RioChain for the Polkadot ecosystem, MANTRA DAO gives financial control back to the people to store and grow wealth together. Essentially, we are building a community-governed DAO structure for DeFi products. Primarily focusing on Staking, Lending, and Governance. We will offer enhanced interest for our users and governance rights through our native OM token.
+MANTRA DAO利用群众的智慧，为网页3.0 创造一个由社区管理、透明和分散的生态系统。 MANTRA DAO是建立在对等式基础上的 RioChain 为 Polkadot 生态系统的 RioChain 基础上的，它使人们能够在财务上控制以便一起储存和增长财富。 基本上，我们正在为Defi 产品建立一个社区管理的DAO结构。 主要侧重于Staking、借贷和治理。 我们将通过我们原生的 OM 令牌，为我们的用户和治理权利提供更大的兴趣。
 
-## What are the uses of OM tokens?
+## OM 令牌有什么用途？
 
-OM tokens are the native cryptocurrency of MANTRA DAO. OM tokens plays a key role in expanding and maintaining the overall MANTRA DAO ecosystem. It has several core functions:
+OM 令牌是MANTRA DAO的原生加密货币。 OM tokens在扩大和维护总体MANTRA DAO 生态系统方面发挥着关键作用。 它有若干核心职能：
 
-– STAKING & LENDING: In addition to staking rewards in different DPoS+PoS assets, depositors of cryptocurrencies in MANTRA DAO will also receive OM tokens.
+——开始 & LENDING：除了在不同的DPoS+PoS资产中进行奖励外，MANTRA DAO中的加密货币存款者也将收到OM 代币。
 
-– OWNERSHIP & GOVERNANCE: OM tokens give voting power over certain economic parameters such as interest rates, level of inflation, ecosystem grant allocations, etc. With the structure of MANTRA DAO being a Foundation, every holder of OM is an owner of MANTRA DAO; the token holders are the owners and are who is able to democratically decide the direction the company should go in!
+-- OWNERSHIP & Governments VERNANCE: OM令牌赋予某些经济参数投票权，如利率、通货膨胀率、生态系统赠款分配等。 MANTRA DAO的结构是一个基金会，所有OM持有人都是MANTRA DAO的所有人； 令牌持有人是所有人，他们能够民主决定公司应该走的方向！
 
-– REPUTATION: OM token holders can grow their reputation via our KARMA Protocol and be rewarded for their contributions to MANTRA DAO.
+-- REPTATION: OM令牌持有者可以通过我们的 KARMA 协议提高他们的声誉，并且因他们对MANTRA DAO 的贡献而获得奖励。
 
-– MANTRA POOL: OM token holders will also be able to access MANTRA POOL, which is our perpetual savings game that give users the chance to win crypto every week.
-
-
-
-## What is RioChain?
-
-RioChain is a Substrate-based Blockchain that operates within the Polkadot ecosystem to provide cross-chain compatibility, and prioritizes security, speed, scalability, and interoperability.
-
-Learn more [here](http://riochain.io/).
-
-## Why is MANTRA DAO built on RioChain?
-
-RioChain is a Substrate-based Blockchain that operates within the Polkadot ecosystem to provide cross-chain compatibility, and prioritizes security, speed, scalability, and interoperability.
-
-Learn more about them here.
-
-## What is Staking?
-
-Staking is a term that has to do with the Proof of Stake (PoS) verification method for transactions on PoS blockchains. Staking is when users lock their crypto assets on PoS blockchains in order to help verify transactions and support/secure the network.
-
-Staking cryptocurrencies can be similarly viewed as putting money away in a savings account that earns you daily passive rewards. Users Stake their cryptocurrencies and are able to unlock high percentage rewards by saving them and not moving or spending them. Like a savings account, Staking accounts can be something you put crypto into and forget about. That Staked crypto is earning daily passive rewards for YOU! It is the easiest way to securely save and earn.
-
-## What is APR?
-
-Annual Percentage Reward (APR) refers to the annual percentage rate at which your Staking assets earn Rewards on a yearly basis.
-
-Annual Percentage Rewards is derived from the term commonly used in traditional capital market, Annual Percentage Rate. Annual Percentage Rate refers to the annual rate of interest charged to borrowers for taking out loans and paid back to the investors who lent that capital. Instead of taking out a loan, members that are Staking crypto are locking their assets to help the blockchcain network validate transactions and be more secure, and in return are being Rewarded in crypto.
-
-## What is DeFi (Decentralized Finance)?
-
-Unlike traditional banking systems and Centralized Finance (CeFi), Decentralized Finance (DeFi) aims to create a financial system that is open to everyone and minimizes one’s need to trust and rely on central authorities. Technologies like the internet, cryptography, and blockchain give us the tools to collectively build and control a financial system without the need for central authorities. There’s a saying in the blockchain space: “Don’t trust, verify.” Because with a blockchain network, you as an individual can verify any and every transaction that occurs on the blockchain.
-
-Besides just the trust factor that Blockchain and DeFi bring, it also breaks down the barriers to enter that currently exist in the traditional financial world and banks. Often times people need a minimum amount of capital to even open up a bank account which is difficult for people from some areas of the world who may only make $10 dollars a month. And this is on top of the fact that many people all over the world don’t even live close enough to a traditional bank for them to even go there. DeFi and MANTRA DAO allow for people from anywhere in the world that have access to a computer or smart phone to be able to have an account and store and grow their wealth. This is what DeFi is able to bring to the world!
-
-## What is Proof of Stake (PoS)?
-
-The alternative to Proof of Work (PoW) is Proof of Stake (PoS). As most recognized with Bitcoin mining, PoW requires raw processing power to verify transactions and solve cryptographic puzzles, the processing of which is wasted on calculations that have no useful purpose but at least secures the blockchain upon which the calculations are being performed. An alternative means to secure a blockchain is to staking your PoS coins on the blockchain, thus proving that you have committed financial resources to the blockchain. The next generation of blockchains, the so-called third-generation blockchains, are almost all based on PoS.
-
-To incentivize token holders to contribute their financial resources to secure a blockchain, PoS systems must offer a reward denominated in the native coins of that blockchain. The result is a bond-like yield that can be derived from staking coins. Combined with the potential price appreciation of those staking coins, investing in PoS systems has the potential to be very rewarding, especially when you factor in the power of compounding those staking rewards.
+— MANTRA POOL：OM 令牌持有者也可以访问MANTRA POOL， 这是我们的永久储蓄游戏，让用户每周都有机会赢得加密。
 
 
-## Is there a Minimum Staking Amount?
 
-Minimum Staking amounts vary depending on the specific crypto. Min. OM: 1
+## 什么是 RioChain？
 
-## What is the Minimum Amount of time I can Stake?
+RioChain是一个基于 Substrate 的区块链，在Polkadot 生态系统内运行，提供跨链兼容性，并优先考虑安全、速度、可扩展性和互操作性。
 
-Staking durations vary depending on the specific crypto and PoS or DPoS blockchain. OM: No Minimum Stake Duration DOT: 28 Day Staking Period KSM: 7 Day Staking Period
+更多的[信息](http://riochain.io/).
 
-## Which Crypto Assets does MANTRA DAO currently support?
+## 为什么MANTRA DAO建筑在里约链上？
 
-We are growing our Staking services every day and look forward to constantly growing this list. Currently MANTRA DAO offers staking for:
+RioChain是一个基于 Substrate 的区块链，在Polkadot 生态系统内运行，提供跨链兼容性，并优先考虑安全、速度、可扩展性和互操作性。
+
+在这里了解更多关于这些问题的信息。
+
+## 什么是利害关系？
+
+Staking 是一个术语，它必须与 PoS blockchains交易的Proof Stake (PoS)验证方法有关。 Staking 是指用户锁定他们在 PoS blockchain 上的加密资产以帮助验证交易和支持/保护网络。
+
+预订加密货币同样可被视为将钱放在储蓄帐户中，从而每日获得被动奖励。 用户通过保存他们的加密货币并不移动或花费他们来解锁高百分比奖励。 像储蓄账户一样，Staking 账户可能会被你加密并忘掉。 那个有趣的加密正在为你赚取每日被动奖励！ 这是最容易安全地拯救和赚钱的方法。
+
+## 什么是 APR？
+
+年度奖励百分比 (APR) 是指您的预订资产每年获得奖励的年百分比。
+
+年薪百分比来自传统资本市场通常使用的术语，年薪百分比。 年度百分比是指借贷资本的投资者向借款人收取贷款和还本付息的年利率。 不要提取贷款， 正在加密的成员正在锁定其资产，以帮助blockchcain网络验证交易并更加安全。 并以加密方式奖励。
+
+## 什么是 DeFi (分散融资)？
+
+与传统的银行系统和集中金融不同， 权力下放的金融系统旨在建立一个向每个人开放的金融系统，最大限度地减少人们对信任和依赖中央当局的需要。 互联网、加密和区块链等技术为我们提供了共同建立和控制金融系统的工具，而不需要中央当局。 区块链空间中有一句话：“不信任，核查”。 因为在一个区块链网络中，您作为一个个人可以验证在区块链上发生的任何和每个交易。
+
+除了仅仅是Blockchain和DeFi生成的信任系数， 它还打破了传统金融界和银行目前存在的进入壁垒。 人们往往需要最低数额的资本，甚至开立一个银行账户，这对世界某些地区的人来说是困难的，他们每月只能拿出10美元。 此外，世界各地还有许多人甚至生活在传统银行的附近，甚至无法到那里去了。 Defi 和 MANTRA DAO 使世界上任何地方都能使用计算机或智能电话的人能够拥有一个帐户，存储和增加他们的财富。 这是DeFi能够带到世界的东西！
+
+## 什么是利益关系的证据？
+
+工作证明的替代办法是工作证明的证明。 正如比特币开采中最常见的那样，PoW需要原始加工能力来验证交易并解决加密难题， 其处理被浪费在没有用途但至少能够保证进行计算的区块链的计算上。 确保区块链安全的另一种方法是把你的 PoS 硬币放置在区块链上。 这证明你已经向区块链投入了财政资源。 下一代区块链，即所谓第三代区块链，几乎都是基于 PoS 的。
+
+鼓励代币持有人贡献他们的财政资源以确保区块链， PoS 系统必须提供一个以区块链的本机硬币为单位的奖励。 其结果是可以从硬币生成的债券产量。 再加上这些硬币的潜在价格升值，对PoS系统的投资有可能带来很高的回报， 尤其是当你考虑到那些冒险奖励的力量时。
+
+
+## 是否有最低预订金额？
+
+最低加密金额因加密而异。 最小值 天体： 1
+
+## 我可以保留的最短时间是多少？
+
+隐藏时间因特定的加密和 PoS 或 DPoS 区块链而异。 OM：无最低持续时间 DOT：28天暂存期间 KSM：7天暂存期间
+
+## 目前支持哪个加密资产？
+
+我们每天都在增加我们的预订服务，并期待着不断增加这一清单。 目前MANTRA DAO 提供收藏：
 
 OM RFUEL OM/ETH UNI V2
 
-## Does MANTRA DAO have any KYC requirements?
+## MANTRA DAO 是否有任何《了解你的需要？
 
-MANTRA DAO is currently a fully decentralized application. MANTRA DAO members have full control over their crypto, their private keys, and their identities.
+MANTRA DAO 目前是一个完全分散的应用程序。 MANTRA DAO 成员完全控制他们的加密、私钥和身份。
 
-In the future, MANTRA DAO does plan to incorporate specific features that would require some level of verification through providing an email, phone number, and basic KYC information. These services would include being able to participating in the KARMA Protocol and gaining access to under-collatoralized loans.
+今后，MANTRA DAO确实计划通过提供电子邮件纳入需要一定程度核查的具体特征， 电话号码和基本的了解客户信息。 这些服务将包括能够参加《喀尔马议定书》和获得未经整理的贷款。
 
-Users will always have full control over the level of information that they provide or decide not to provide.
+用户总是能够完全控制他们提供或决定不提供的信息水平。
 
-## What is Polkadot?
+## Polkadot是什么？
 
-Polkadot is a platform that allows diverse blockchains to transfer messages, including value, in a trust-free fashion; sharing their unique features while pooling their security. In brief, Polkadot is a scalable, heterogeneous, multi-chain technology.
+Polkadot 是一个平台，它允许不同的区块链以无信任的方式传输包括价值在内的消息；共享其独特功能，同时将其安全集中。 简言之，Polkadot是一种可伸缩、异质、多链的技术。
 
-Polkadot is heterogeneous because it is entirely flexible and makes no assumptions about the nature or structure of the chains in the network. Even non-blockchain systems or data structures can become parachains if they fulfill a set of criteria.
+Polkadot是多种多样的，因为它是完全灵活的，没有对网络链的性质或结构作出任何假设。 即使是非区块链系统或数据结构，如果它们符合一套标准，它们也可以成为辅助系统。
 
-Polkadot may be considered equivalent to a set of independent chains (e.g. a set containing Ethereum, Ethereum Classic, Namecoin and Bitcoin) except with important additions: pooled security and trust-free interchain transactability.
+Polkadot可被视为等同于一套独立的链(例如： 一个包含以太、以太、以太、纳麦科因和比特币为单位的集合集合安全和无信任的链间可交易性的集合。
 
-Unlike previous blockchain implementations that provide a single chain of varying degrees of generality, Polkadot provides a Relay Chain upon which a large number of verifiable data structures may be hosted. We call these data-structures “parallelized” chains or parachains. Polkadot provides a networking and consensus layer that allows blockchain developers to focus on creating a state machine with unique features, such as formal verification or anonymity.
+不同于以往的 blockchain 实现，这些实现提供了一个不同程度的一般性的单一链。 Polkadot提供了一个中继链，大量可核查的数据结构可以存放在该链上。 我们将这些数据结构称为“并行”链或准通道。 Polkadot 提供了一个网络和共识层，使区块链开发者能够集中精力创建具有独特功能的状态机器。 例如正式核实或匿名。
 
-Polkadot consists of many parachains with potentially differing characteristics. Transactions can be spread out across the chains, allowing many more transactions to be processed in the same period of time. Polkadot ensures that the security of all blockchains in the network is robust and that any dealings between them are faithfully executed. All parachains share security and state, meaning if one chain has a message reverted, all chains get reverted. It is also possible for independent chains with their own validators to be linked to Polkadot via bridges, thereby foregoing Polkadot’s shared state and security system. These chains can benefit from Polkadot’s interoperability without being hosted on the platform, examples of these would be Bitcoin and Ethereum.
+Polkadot由许多潜在不同特性的伞状组织组成。 交易可以分散到整个链条中，使更多的交易能够在同一时期内处理。 Polkadot确保网络中所有区块链的安全性很强，它们之间的任何交易都是忠实执行的。 所有parachains 共享安全和状态，即如果一个链有回帖，所有链都会被还原。 还有可能通过桥梁将拥有自己的验证链的独立链与Polkadot连接起来。 因此，Polkadot的共享状态和安全系统。 这些链可以从Polkadot的互操作性中受益，而不在平台上托管，这些比特币和 Etherum就是例子。
 
-Learn more about them [here](https://polkadot.network/).
+在这里了解更多关于 [的信息](https://polkadot.network/)
 
-## What is Web3 foundation
+## Web3基金会
 
-Web3 Foundation is a Swiss Stiftung established under Article 80 et seqq. of the Swiss Civil Code. The Web3 Foundation was founded by Dr. Gavin Wood and has as its focus the development, deployment and maintenance of “Web3”. Web3 Foundation promotes the development of innovative technologies and applications in the field of cryptographically-enabled decentralised software protocols.
+Web3基金会是根据第80条及其后各条设立的瑞士起义组织。 《瑞士民法典》第（1）条。 Web3基金会由Gavin Wood博士创立，其重点是开发、部署和维护“Web3”。 Web3基金会推动开发加密技术的创新技术和应用软件程序。
 
-Web3 Foundation’s purpose is to nurture and steward cutting-edge technologies and applications at all levels of the Web3 technology stack. Web3’s principal focus is research, development, deployment, funding, and maintenance of Web3 technologies, plus advocacy and education, developer-adoption, support of middleware, and base-layer/demonstration applications.
+Web3基金会的目的是培育和管理尖端技术和应用在所有级别的 Web3技术仓库。 Web3的主要重点是研究、开发、部署、筹资和维护Web3技术，外加宣传和教育、开发者采纳、支持中间层和基本层/示范应用。
 
-The Web3 Foundation Council is Web3’s governing body, responsible for the management of the Web3 Foundation. The current members of the Web3 Foundation Council are Dr. Gavin Wood (President and Founder), Dr. Aeron Buchanan (Vice President) and Reto Trinkler.
+Web3基金会理事会是Web3的理事机构，负责管理Web3基金会。 Web3基金会理事会目前的成员是Gavin Wood博士（主席和创始人）、Aeron Buchanan博士（副主席）和Reto Trinkler。
 
-Swiss foundations are subject to a mandatory supervision by a federal or cantonal authority. The Web3 Foundation’s application for approval by Eidgenössische Stiftungsaufsicht (Federal Foundation Supervisory Authority) was approved July 2018.
+瑞士基金会必须接受联邦或州当局的强制性监督。 Web3基金会的申请得到EidgenoIndutifications ssische Stiftungsaufsicht (联邦基金会监督局)的批准，2018年7月获得批准。
 
-Learn more about them [here](https://web3.foundation/).
+在这里了解更多关于 [的信息](https://web3.foundation/)
 
-## What is Parity Substrate?
+## 什么是对等表面？
 
-Parity Substrate is a blockchain development framework with many cool features like upgradable blockchains, modular architecture, customizable block execution logic, and hot-swappable consensus.
+对等式Substrate 是一个区块链开发框架，具有许多很酷的功能，如可升级的区块链、模块化结构、可定制区块执行逻辑和可热交换的共识。
 
-Learn more about them [here](https://www.parity.io/).
+在这里了解更多关于 [的信息](https://www.parity.io/)
 
-## Is MANTRA DAO custodial?
-The security of cryptocurrency assets is one of the most important elements in the blockchain industry. Many blockchain companies have failed due to poor security procedures. Most security breaches could have been prevented by taking simple precautions to protect critical resources. MANTRA DAO will integrate a mix of noncustodial and custodial wallet solutions depending on the specific service offerings. When custody is required for specific services, MANTRA DAO will use and leverage RioChain’s enterprise-grade security solution that utilizes the strongest encryption technology available in order to have absolute trustworthiness.
+## MANTRA DAO 保管吗？
+加密货币资产的安全是区块链行业最重要的要素之一。 许多区块链公司由于安全程序差而失败。 大多数破坏安全的行为本来可以通过采取简单的预防措施来保护关键资源。 MANTRA DAO将根据具体提供的服务整合非保管钱包和保管钱包解决方案。 当需要对特定服务实行监护时， MANTRA DAO将使用并利用RioChain的企业级安全解决方案，利用现有最强大的加密技术来实现绝对可信度。
 
-As security is of the utmost importance for us, MANTRA DAO will focus on offering non-custodial services for its initial staking business line through Delegated Proof of Stake (DPoS) tokens. By utilizing and working with cryptocurrencies that are DPoS, MANTRA DAO is able to greatly reduce security risk as it will not be handling any of its members’ digital assets, having them remain at all times in the members’ custody. As additional tokens are offered that are Proof of Stake (PoS), we will maintain these through industry-leading security solutions.
+因为安全对我们最为重要。 MANTRA DAO将侧重于通过代用Stake (DPoS)代币证明为其初步订购业务线提供非保管服务。 使用并使用DPoS加密货币， MANTRA DAO能够大大降低安全风险，因为它不会处理其成员的任何数字资产。 他们一直由成员监护。 由于我们提供了更多的代币来证明利益攸关者，我们将通过行业主导的安全解决办法来维持这些代币。
 
-The MANTRA DAO Foundation's assets are held and stored by its partner, Hex Trust. Hex Trust is a licensed and insured custody provider, and one of Asia’s leading institutional digital asset custody provider. The MANTRA DAO team will contiue to work with the Hex Trust team to integrate more custody solutions into the ecosystem as more services are rolled out. Read more about their partnership [here](https://medium.com/mantra-dao/uncompromising-security-over-users-assets-90ddaaf1e796).
+MANTRA DAO基金会的资产由其伙伴Hex Trust持有和储存。 Hex Trust 是一个有执照和有保险的监管提供商，是亚洲著名的机构数字资产监管提供商之一。 MANTRA DAO小组将与Hex信托小组合作，随着更多服务的推广，将更多的监护解决办法纳入生态系统。 在这里阅读更多关于他们的伙伴关系 [的信息](https://medium.com/mantra-dao/uncompromising-security-over-users-assets-90ddaaf1e796)。
 
-## What is a DAO?
+## 什么是DAO？
 
-DAOs, otherwise known as Decentralized Autonomous Organizations, represent a massive upgrade on the traditional firm. DAOs use blockchain technology and programmable incentives to solve issues traditionally faced by global organizations, such as financial transparency, process automation, governance, and aligning geographically-separated, individual stakeholders in pursuit of a common goal. By combining state-of-the-art technology with new token economic, governance, and financial models, DAOs can provide substantial benefits for their members. With DAOs, communities are able to leverage the strengths of all members, turning them into active stakeholders to grow the network together.
+DAOs（又称分权自治组织）代表着传统公司的大规模升级。 DAOs 使用 blockchain 技术和可编程的激励措施来解决全球组织传统上面临的问题，如财务透明度问题。 为了实现一个共同的目标，过程自动化、治理和调整地域分离的个别利益有关者。 通过将最新技术与新的象征性经济、治理和金融模式结合起来，DAO可以为其成员带来巨大利益。 社区能够利用所有成员的优势，将它们变成积极的利益攸关者，共同发展网络。
 
-## What is OM/ETH Uni-V2 LP Token?
+## OM/ETH Un-V2 LP 令牌是什么？
 
 
-How is APR Estimated?   
-How do I Stake? How do I Unstake?   
-How do I Claim my Rewards?	
+APR 估计数如何？   
+我怎么做？ 如何取消利害关系？   
+我如何领取我的奖励？	
