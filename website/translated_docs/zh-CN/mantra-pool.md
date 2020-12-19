@@ -1,6 +1,6 @@
 ---
-id: mantra-pool
-title: Mantra Pool
+id: mantra-point
+title: 曼特拉库
 ---
 
-Another one
+另一个
