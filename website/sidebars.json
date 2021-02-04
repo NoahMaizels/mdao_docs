@@ -1,9 +1,0 @@
-{
-  "Users": {
-    "About MANTRA DAO": ["users-intro", "om-token", "links-downloads", "faq"],
-    "Product Guides": ["products", "staking", "mantra-pool", "lending"]
-  },
-  "Developers": {
-    "System Overview": ["developers-intro"]
-  }
-}
