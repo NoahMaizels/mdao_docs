@@ -1,0 +1,61 @@
+{
+  "_comment": "此文件是由写入翻译.js自动生成",
+  "localized-strings": {
+    "next": "下一个",
+    "previous": "上一个",
+    "tagline": "社区管理的 DeFi 超市场",
+    "docs": {
+      "developers-intro": {
+        "title": "技术概览"
+      },
+      "faq": {
+        "title": "常见问题"
+      },
+      "lending": {
+        "title": "放款中"
+      },
+      "links-downloads": {
+        "title": "官方链接"
+      },
+      "mantra-pool": {
+        "title": "曼特拉库"
+      },
+      "om-token": {
+        "title": "Om 令牌"
+      },
+      "products": {
+        "title": "产品"
+      },
+      "staking": {
+        "title": "加载中",
+        "sidebar_label": "加载中"
+      },
+      "users-intro": {
+        "title": "一. 导言"
+      }
+    },
+    "links": {
+      "Users": "用户",
+      "Developers": "开发者",
+      "News": "新闻"
+    },
+    "categories": {
+      "About MANTRA DAO": "关于 MANTRA DAO",
+      "Product Guides": "产品指南",
+      "System Overview": "系统概述"
+    }
+  },
+  "pages-strings": {
+    "Learn more using the [documentation on this site.](/test-site/docs/en/doc1.html)|no description given": "了解更多使用 [此站点上的文档](/test-site/docs/en/doc1.html)",
+    "Browse Docs|no description given": "浏览文档",
+    "Ask questions about the documentation and project|no description given": "询问有关文档和项目的问题",
+    "Join the community|no description given": "加入社区",
+    "Find out what's new with this project|no description given": "了解这个项目有什么新功能",
+    "Stay up to date|no description given": "保持更新",
+    "Need help?|no description given": "需要帮助吗？",
+    "This project is maintained by a dedicated group of people.|statement made to reader": "该项目由一批专职人员维持。",
+    "Help Translate|recruit community translators for your project": "帮助翻译",
+    "Edit this Doc|recruitment message asking to edit the doc source": "编辑",
+    "Translate this Doc|recruitment message asking to translate the docs": "翻译"
+  }
+}
